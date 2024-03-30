@@ -1,5 +1,7 @@
 # DiscordWebhook
 
+please install requests and discord libraries
+
 ## Author
 * **xnebulap_dev**
 
